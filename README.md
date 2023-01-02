@@ -7,7 +7,7 @@
 
 홈페이지 -> [![홈페이지](https://myeongul.kro.kr/img/favicon.ico)](https://myeongul.kro.kr)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeong-ul&count_private=true&show_icons=true&theme=radical )
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myeong-ul&count_private=true&show_icons=true&theme=radical)](https://myeongul.kro.kr)
 
 사용하는 데이터 베이스
 --
