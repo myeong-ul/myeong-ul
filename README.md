@@ -41,6 +41,12 @@
 --
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![NAVER](https://img.shields.io/badge/NAVER-2DB400?style=for-the-badge&logo=naver&logoColor=white)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
 <!---
 myeong-ul/myeong-ul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
